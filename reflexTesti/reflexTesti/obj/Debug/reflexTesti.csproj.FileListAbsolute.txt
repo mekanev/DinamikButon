@@ -1,0 +1,12 @@
+C:\Users\melik\source\repos\reflexTesti\reflexTesti\bin\Debug\reflexTesti.exe.config
+C:\Users\melik\source\repos\reflexTesti\reflexTesti\bin\Debug\reflexTesti.exe
+C:\Users\melik\source\repos\reflexTesti\reflexTesti\bin\Debug\reflexTesti.pdb
+C:\Users\melik\source\repos\reflexTesti\reflexTesti\obj\Debug\reflexTesti.csproj.AssemblyReference.cache
+C:\Users\melik\source\repos\reflexTesti\reflexTesti\obj\Debug\reflexTesti.Form1.resources
+C:\Users\melik\source\repos\reflexTesti\reflexTesti\obj\Debug\reflexTesti.Properties.Resources.resources
+C:\Users\melik\source\repos\reflexTesti\reflexTesti\obj\Debug\reflexTesti.csproj.GenerateResource.cache
+C:\Users\melik\source\repos\reflexTesti\reflexTesti\obj\Debug\reflexTesti.csproj.CoreCompileInputs.cache
+C:\Users\melik\source\repos\reflexTesti\reflexTesti\obj\Debug\reflexTesti.exe
+C:\Users\melik\source\repos\reflexTesti\reflexTesti\obj\Debug\reflexTesti.pdb
+C:\Users\melik\source\repos\reflexTesti\reflexTesti\obj\Debug\reflexTesti.oyunEkrani.resources
+C:\Users\melik\source\repos\reflexTesti\reflexTesti\obj\Debug\reflexTesti.bilgi.resources
